@@ -5,9 +5,15 @@ Hello there! I'm Reema Gupta, a dedicated Data Engineer with a strong foundation
 💻 Tech Stack:
 
 Programming Languages: Python, SQL
+
 Data Engineering: Azure Data Factory, Databricks
+
 Statistical Analysis and Machine Learning: Machine Learning Algorithms, Statistical Analysis Techniques
+
 Data Visualization: Power BI, Seaborn, Matplotlib, Excel
+
 Database Management: MySQL, PostgreSQL
+
 Version Control: Git (GitHub, GitLab)
+
 Cloud Platforms: Microsoft Azure
